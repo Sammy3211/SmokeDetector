@@ -2544,6 +2544,7 @@ items:
   disable: true
   ns: dns-parking.net.
 - ns: dns-parking.com.
+  ignore_validation_errors: true
 - ns: host.com.pk.
 - ns: genxwhosting.com.
 - ns: phase8.net.
